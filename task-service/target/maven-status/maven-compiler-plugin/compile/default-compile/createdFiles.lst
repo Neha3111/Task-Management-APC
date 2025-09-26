@@ -1,0 +1,8 @@
+com\example\taskservice\repository\TaskRepository.class
+com\example\taskservice\security\JwtFilter.class
+com\example\taskservice\controller\TaskController.class
+com\example\taskservice\config\FilterConfig.class
+com\example\taskservice\TaskServiceApplication.class
+com\example\taskservice\model\Task.class
+com\example\taskservice\security\JwtUtil.class
+com\example\taskservice\repository\TaskRepository$TaskRowMapper.class
